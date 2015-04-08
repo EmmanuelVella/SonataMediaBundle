@@ -73,6 +73,7 @@ class GalleryAdmin extends Admin
                     'admin_code'        => 'sonata.media.admin.gallery_has_media'
                 )
             )
+            ->end()
         ;
     }
 
